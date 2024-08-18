@@ -1,0 +1,7 @@
+A pilha segue a logica do lifo last in, firt out
+
+a pilha também é da logica FILO first in, last out 
+
+
+
+g++ main_pilha.cpp pilha.cpp -o pilha.exe
